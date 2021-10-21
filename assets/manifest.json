@@ -1,7 +1,7 @@
 {
-  "name": "budifajriarzi_front-end-intermediate",
-  "short_name": "budifajriarzi_front-end-intermediate",
-  "description": "Current status of the city",
+  "name": "howareyoucity",
+  "short_name": "howareyoucity",
+  "description": "Check current status of the city",
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
